@@ -1,3 +1,3 @@
-def func(){
-    
+def printName(name){
+    echo name
 }
